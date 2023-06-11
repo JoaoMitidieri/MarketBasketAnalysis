@@ -22,9 +22,9 @@ Passo 4: Limpeza dos Dados
 
 Passo 5: Feature Extraction
 
-Passo 6: Concatenação de colunas para dois Datasets
+Passo 6: Concatenação de Colunas para Dois Datasets
 
-Passo 7: Agrupando os dados para aplicar o algoritmo Apriori 
+Passo 7: Agrupando os dados para aplicar o Algoritmo Apriori 
 
 Passo 8: Análise Estatística Descritiva
 
