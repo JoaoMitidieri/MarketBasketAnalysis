@@ -28,9 +28,9 @@ Passo 7: Agrupando os dados para aplicar o Algoritmo Apriori
 
 Passo 8: Análise Estatística Descritiva
 
-Passo 9: Respondendo e Analisando as  Perguntas de Negócio
+Passo 9: Respondendo e Analisando questões de negócio
 
-Passo 10: Excetutando Algoritmo Apriori
+Passo 10: Excecutando Algoritmo Apriori
 
 Passo 11: Observando e Tirando Insights da Relação de Produtos com Algorimo Apriori
 
